@@ -130,4 +130,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Author
 
-**Ruide Yin** — [GitHub](https://github.com/ry2406)
+**Ruide Yin** — [GitHub](https://github.com/yinruide)
